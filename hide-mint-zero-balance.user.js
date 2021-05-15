@@ -14,6 +14,7 @@
     const INTERVAL_TIME = 100;
 	const MAIN_MINT_ELEMENT_ID = 'overviewMatContainer';
 	const ZERO_DOLLARS = '$0.00';
+	console.log('test');
 
 	function isDOMLoaded() {
 		var element = document.getElementById(MAIN_MINT_ELEMENT_ID);
