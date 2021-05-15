@@ -45,7 +45,6 @@
 			'#moduleAccounts-investment',
 			'#moduleAccounts-property',
 		]
-
 		const h3_span_balance = 'h3 span.balance';
 
 		tags.forEach((e) => {
