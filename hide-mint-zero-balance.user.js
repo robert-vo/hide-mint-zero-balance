@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hide mint $0.00 balance
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  hide mint $0.00 balance
 // @author       You
 // @match        **https://mint.intuit.com/overview.event**
